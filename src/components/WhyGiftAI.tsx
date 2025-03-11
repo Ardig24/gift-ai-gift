@@ -7,7 +7,7 @@ import { Sparkles, Zap, Brain } from 'lucide-react';
 const features = [
   {
     title: 'Unique & Modern',
-    description: 'Stand out with a gift they won't forget — the cutting edge of technology at their fingertips.',
+    description: "Stand out with a gift they won't forget — the cutting edge of technology at their fingertips.",
     icon: Sparkles,
     delay: 0,
   },
